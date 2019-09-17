@@ -1,3 +1,3 @@
 # Machine Learning Fall 2019 Homework 1
 
-Clone or download this repository, and follow the instructions in hw1.pdf.
+crossval.py, naive_bayes.py and decision_tree.py are the only files modified with no external files included and changes done.
